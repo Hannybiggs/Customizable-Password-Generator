@@ -13,6 +13,7 @@ The added Javascript code resulted in the required criteria being met. The Javas
 
 
 ## Screenshot of Password Generator Interface: 
-![The Password Generator application.](Assets/03-javascript-homework-demo.png)
+<img src= "https://raw.githubusercontent.com/Hannybiggs/Customizable-Password-Generator/main/Assets/03-javascript-homework-demo.png?raw=true">
 
-Link to deployed website: https://hannybiggs.github.io/Customizable-Password-Generator/
+
+[Link to the application](https://hannybiggs.github.io/Customizable-Password-Generator/)
