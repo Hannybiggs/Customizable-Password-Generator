@@ -12,6 +12,7 @@ The intent of this project was to modify given starter code to create a random p
 The added Javascript code resulted in the required criteria being met. The Javascript enables the user to opt in or out of the above choice by clicking "OK" or "Cancel" in the prompts provided depending on the user's preference. The secure password is then generated in the box embedded on the page and can be copied for use.
 
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+## Screenshot of Password Generator Interface: 
+![The Password Generator application.](Assets/03-javascript-homework-demo.png)
 
-Link to deployed website: 
+Link to deployed website: https://hannybiggs.github.io/Customizable-Password-Generator/
